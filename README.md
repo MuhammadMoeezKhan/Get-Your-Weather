@@ -1,1 +1,1 @@
-# Get-Your-Weather
+Created a Web Application using Javascript to parse (JSON formatted) data from Openweather.com's "Current Weather Data" API that dispays weather data for any location including over 200,000 cities over the globe. As you load the web page, input the name of city and get its weather forecast!
